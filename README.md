@@ -1,14 +1,14 @@
-# ¡Hola! Soy Gabriel Maeso 👋
+# ¡Hola! Soy Gabriel Maeso
 
 Desarrollador Front-end, soy de La Plata. Me encanta construir interfaces modernas, limpias y funcionales.
 
-### 🚀 Sobre mí
-- 💻 Estudiante de Desarrollo de Software.
-- 🏗️ Actualmente contribuyendo como Front-end dev en el proyecto **SGI TECBA** (Sistema de Gestión Inteligente).
-- 🌱 Aprendiendo y profundizando en el diseño de bases de datos relacionales y arquitectura de componentes.
-- ☕ Tengo experiencia previa en atención al cliente y como barista, lo que me dio una gran capacidad de trabajo en equipo y resolución de problemas.
+### Sobre mí
+- Estudiante de Desarrollo de Software.
+- Actualmente contribuyendo como Front-end dev en el proyecto **SGI TECBA** (Sistema de Gestión Inteligente).
+- Aprendiendo y profundizando en el diseño de bases de datos relacionales y arquitectura de componentes.
+- Tengo experiencia previa en atención al cliente y como barista, lo que me dio una gran capacidad de trabajo en equipo y resolución de problemas.
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
