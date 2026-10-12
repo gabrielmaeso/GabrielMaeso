@@ -19,9 +19,4 @@ Desarrollador Front-end, soy de La Plata. Me encanta construir interfaces modern
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📊 Mis Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmaeso&show_icons=true&theme=tokyonight&hide_border=true" alt="Gabriel's GitHub Stats" />
-</p>
-
 📫 **Contactame en:** [LinkedIn](https://www.linkedin.com/in/gabriel-maeso) | gabrielmaeso@hotmail.com
