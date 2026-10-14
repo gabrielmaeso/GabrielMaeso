@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gabriel Maeso
+# ¡Hola! Soy Gabriel
 
 Desarrollador Front-end, soy de La Plata. Me encanta construir interfaces modernas, limpias y funcionales.
 
